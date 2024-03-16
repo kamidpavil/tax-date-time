@@ -1,0 +1,29 @@
+{
+  "name": "tax-date-time",
+  "version": "1.0.0",
+  "description": "A collection of utilities for working with dates and times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+	"moment-timezone": "^0.5.36",
+    "clever-utils-base": "1.0.0",
+    "cook-string-random": "1.0.0",
+    "smart-helpers-love": "1.0.0",
+    "vadimtk1-array": "1.1.4",
+    "kastpitocidanielle-text-crypto": "1.1.4",
+    "saystellar-essentials": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
